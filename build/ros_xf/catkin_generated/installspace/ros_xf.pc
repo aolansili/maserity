@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_dada/install
+
+Name: ros_xf
+Description: Description of ros_xf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_dada/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ros_caffe:ros_xf:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_dada/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_dada/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_dada/devel
+
+Name: image
+Description: Description of image
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_dada/devel/lib 
+Requires: 

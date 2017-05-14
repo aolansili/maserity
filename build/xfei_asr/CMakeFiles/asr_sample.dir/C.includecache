@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/catkin_dada/src/xfei_asr/src/asr_sample.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+xfei_asr/qisr.h
+/home/ubuntu/catkin_dada/src/xfei_asr/src/xfei_asr/qisr.h
+xfei_asr/msp_cmn.h
+/home/ubuntu/catkin_dada/src/xfei_asr/src/xfei_asr/msp_cmn.h
+xfei_asr/msp_errors.h
+/home/ubuntu/catkin_dada/src/xfei_asr/src/xfei_asr/msp_errors.h
+
